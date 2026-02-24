@@ -1,0 +1,35 @@
+# MATLAB temporary and autosave files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB data files
+*.mat
+
+# MATLAB generated figures
+*.fig
+
+# MATLAB code generation
+codegen/
+
+# Simulink autosave
+*.slxc
+*.slx.r*
+
+# SPM output directories
+spm_*.ps
+*.nii
+*.hdr
+*.img
+
+# OS files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor and IDE
+*.swp
+*.swo
+*~
